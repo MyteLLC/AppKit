@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+<import>appkit:system</import>
+<import>appkit:object</import>
+
+<body>
+
+
+<---! Code Goes in the Body Tags !--->
+
+
+</body>
+</layout>
